@@ -1,0 +1,23 @@
+{
+  "name": "mrtehran",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "mrtehran.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "execa": "^9.4.1",
+    "inquirer": "^12.0.0",
+    "ora": "^8.1.0"
+  },
+  "devDependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0"
+  }
+}
